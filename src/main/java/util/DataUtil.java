@@ -5,6 +5,7 @@ import java.util.HashMap;
 import org.testng.annotations.DataProvider;
 
 public class DataUtil {
+//I have taken these code from online someone in internet written these
 
 	@DataProvider(name = "hashDataProvider")
 	public static Object[][] getTestData(MyXLSReader xls_received, String testName, String sheetName) throws Exception {

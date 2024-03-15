@@ -21,7 +21,7 @@ import org.apache.poi.ss.usermodel.Workbook;
 import org.apache.poi.xssf.usermodel.XSSFWorkbook;
 
 public class MyXLSReader {
-	// These code i had taken from internet(Some developed developed and these xlsx
+	// These code i had taken from internet(Some developed and these xlsx
 	// pattern also provided for these code)
 	public String filepath;
 	FileInputStream fis = null;;
